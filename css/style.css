@@ -1,0 +1,64 @@
+.nav-custom{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-decoration: none;
+    color:black;
+    white-space: nowrap;
+}
+.btn-custom{
+    background: #5CB85F;
+    border-radius: 2px;
+    border :0;
+    padding: 8px 12px;
+}
+.background-custom{
+    background-color: #F1F3FF;
+}
+h1{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 150%;
+}
+.text-custom{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 20px;
+}
+.title-pad{
+    padding-left: 4.7rem;
+    padding-right: 2rem;
+}
+.container-top{
+    padding-top:11vh;
+}
+.container-left{
+    padding-left:5.2rem;
+}
+.car{
+    position: absolute;
+    top:129px
+}
+h2{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+}
+.bg-custom{
+   background-color: #F1F3FF;
+   border:0px; 
+}
+.custom-card{
+    background-color:#0D28A6;
+    border-radius: 13px;
+}
+.div-custom{
+    border-radius: 4px;
+    border : 1px solid #D4D4D4;
+}
